@@ -1,1 +1,1 @@
-Encapsulamento
+Usando Encapsulamento e properties
